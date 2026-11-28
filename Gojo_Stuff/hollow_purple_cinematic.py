@@ -3,7 +3,7 @@ import math
 import random
 import sys
 from mathutils import Vector
-
+#
 # ============================================================
 # GOJO SATORU - HOLLOW PURPLE CINEMATIC VFX
 # Blender 4.2 - 5.x (best results with Eevee or Cycles)
